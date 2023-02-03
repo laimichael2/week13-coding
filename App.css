@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.form {
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  background-color: white;
+  font-size: 20px;
+  margin: 10px;
+  border-style: solid;
+  text-align: center;
+}
+.nav {
+  background-color: cadetblue;
+  font-size: 55px;
+}
